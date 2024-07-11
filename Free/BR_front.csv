@@ -1,9 +1,9 @@
-,Shot Metric,Shooting Side,Non-Shooting Side,Shooting Side,Non-Shooting Side
-0,Forearm Angle(°),-3.64,11.18,-7.92,20.20
-1,Shoulder Angle(°),96.76,95.68,138.79,112.78
-2,Torso Angle(°),-1.88,-1.88,-0.15,-0.15
-3,Hip Angle(°),-7.06,-4.92,-6.48,-6.28
-4,Knee Angle(°),-0.78,-4.18,-0.96,-3.87
-5,Lower Leg Angle(°),8.32,-9.36,8.58,-9.63
-6,Feet Width(in),19.03,19.03,19.74,19.74
-7,Foot Angle(°),-0.08,7.12,-0.48,4.57
+Shot Metric,Shooting Side,Non-Shooting Side,Shooting Side,Non-Shooting Side
+Forearm Angle(°),-3.64,11.18,-7.92,20.20
+Shoulder Angle(°),96.76,95.68,138.79,112.78
+Torso Angle(°),-1.88,-1.88,-0.15,-0.15
+Hip Angle(°),-7.06,-4.92,-6.48,-6.28
+Knee Angle(°),-0.78,-4.18,-0.96,-3.87
+Lower Leg Angle(°),8.32,-9.36,8.58,-9.63
+Feet Width(in),19.03,19.03,19.74,19.74
+Foot Angle(°),-0.08,7.12,-0.48,4.57
