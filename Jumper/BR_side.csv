@@ -1,12 +1,12 @@
 Shot Metric,Shooting Side,Non-Shooting Side,Shooting Side,Non-Shooting Side
-Wrist Angle(°),-9.59,25.50,-13.13,17.59
-Hand Height(in),90.44,89.82,89.97,89.43
-Hand Height(%PH),124.17,123.32,123.53,122.78
-Elbow Angle(°),-1.86,2.97,-5.30,1.08
-Release Angle(°),-150.70,-143.17,-152.65,-141.80
-Shoulder Angle(°),92.69,124.93,92.93,127.36
-Torso Angle(°),-11.12,-11.12,-12.42,-12.42
-Hip Angle(°),4.39,2.51,1.19,-0.24
-Knee Angle(°),1.13,-1.45,0.07,-1.81
+Wrist Angle(°),-9.59,-13.13,25.50,17.59
+Hand Height(in),90.44,89.97,89.82,89.43
+Hand Height(%PH),124.17,123.53,123.32,122.78
+Elbow Angle(°),-1.86,-5.30,2.97,1.08
+Release Angle(°),-150.70,-152.65,-143.17,-141.80
+Shoulder Angle(°),92.69,92.93,124.93,127.36
+Torso Angle(°),-11.12,-12.42,-11.12,-12.42
+Hip Angle(°),4.39,1.19,2.51,-0.24
+Knee Angle(°),1.13,0.07,-1.45,-1.81
 Vertical Displacement(in),0.17,0.17,0.17,0.17
-Ankle Angle(°),-35.03,-31.37,-33.38,-32.39
+Ankle Angle(°),-35.03,-33.38,-31.37,-32.39
