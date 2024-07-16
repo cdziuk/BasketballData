@@ -1,11 +1,11 @@
 Shot Metric,Shooting Side,Non-Shooting Side,Shooting Side,Non-Shooting Side
-Wrist Angle(°),12.87,-35.62,13.93,-36.61
-Hand Height(in),75.04,78.58,75.48,79.34
-Hand Height(%PH),103.03,107.88,103.64,108.94
-Elbow Angle(°),99.05,69.41,102.15,71.12
-Shoulder Angle(°),75.56,103.96,72.92,99.57
-Torso Angle(°),-13.03,-13.03,-12.15,-12.15
-Hip Angle(°),4.38,3.96,1.32,2.96
-Knee Angle(°),34.55,30.30,29.24,28.34
-Feet Stagger Position(in),-5.55,-5.55,-5.01,-5.01
-Ankle Angle(°),5.94,7.70,-0.00,-0.13
+Wrist Angle(°),12.87,13.93,-35.62,-36.61
+Hand Height(in),75.04,75.48,78.58,79.34
+Hand Height(%PH),103.03,103.64,107.88,108.94
+Elbow Angle(°),99.05,102.15,69.41,71.12
+Shoulder Angle(°),75.56,72.92,103.96,99.57
+Torso Angle(°),-13.03,-12.15,-13.03,-12.15
+Hip Angle(°),4.38,1.32,3.96,2.96
+Knee Angle(°),34.55,29.24,30.30,28.34
+Feet Stagger Position(in),-5.55,-5.01,-5.55,-5.01
+Ankle Angle(°),5.94,-0.00,7.70,-0.13
